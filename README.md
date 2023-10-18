@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 - Video demostration of TailwindCSS + React button component:
 
-https://cdn.loom.com/sessions/thumbnails/70df1e1e428f4bb58b0c6052f2147d42-1697628152107-with-play.gif
+https://github.com/JMProyects/TailwindCSS-React/assets/91617930/e6d6fd7d-e5a7-44c5-a9d6-adc81b60f2a0
+
